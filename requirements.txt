@@ -1,5 +1,4 @@
 logging
 telegram
 yt_dlp
-python-telegran-bot
 gunicorn
