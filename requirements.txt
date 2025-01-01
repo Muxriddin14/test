@@ -2,3 +2,4 @@ logging
 telegram
 yt_dlp
 gunicorn
+app
